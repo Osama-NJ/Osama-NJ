@@ -1,8 +1,7 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=&color=%230A711ADC&lines=console.log(%22Hello%2C%20World!%22);System.out.println(%22Hello%2C%20World!%22);print(%22Hello%2C%20World!%22);printf(%22Hello%2C%20World!%22);fmt.Println(%22Hello%2C%20World!%22);println!(%22Hello%2C%20World!%22);cout%20%3C%3C%20%22Hello%2C%20World!%22&center=true&size=27&width=550">
-
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=monoType&color=%230A711ADC&size=28&lines=Hello+World!!+;I+am+Osama+...;Nice+to+meet+you+...;Welcome+to+my+GitHub+:)">
+  
   
 </h1>
 <h1 align="center">
