@@ -18,5 +18,4 @@
 - 📫 How to reach me ?   
    * [**Linkedin**](https://www.linkedin.com/in/osamanajjar) 
 - 😄 Pronouns: ...
-- ⚡ Fudasdn fact: ...
-
+- ⚡ Fun fact : kos 2m 3bdallah
