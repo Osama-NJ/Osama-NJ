@@ -1,5 +1,4 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=monoType&color=%230A711ADC&size=28&lines=Hello+World!!+;I+am+Osama+...;Nice+to+meet+you+...;Welcome+to+my+GitHub+:)">
   
   
@@ -20,4 +19,4 @@
    * [**Linkedin**](https://www.linkedin.com/in/osamanajjar) 
 - 😄 Pronouns: ...
 - ⚡ Fudasdn fact: ...
--->
+
