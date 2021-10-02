@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=monoType&color=%230A711ADC&size=28&lines=Hello+World!!+;I+am+Osama+...;Nice+to+meet+you+...;Welcome+to+my+GitHub+:)">
+  <img src="https://readme-typing-svg.herokuapp.com?font=monoType&color=%230A711ADC&size=28&lines=Hello+There!!+;I+am+Osama+;Welcome+to+my+GitHub+:)">
   
   
 </h1>
 <h1 align="center">
-  <img src="https://github.com/Osama-NJ/Osama-NJ/blob/main/img/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966.gif">
+  <img src="https://github.com/Osama-NJ/Osama-NJ/blob/main/img/code.gif">
 </h1>
 
 
