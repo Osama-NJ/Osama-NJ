@@ -1,5 +1,5 @@
 <h2 align="left">
-  <br><img src="https://github.com/Osama-NJ/Osama-NJ/blob/main/img/Hi.gif"width="30"> <br><img src="https://readme-typing-svg.herokuapp.com?size=26&lines=Hello+There+!!;My+Name+is+Osama..;Nice+to+meet+you+:);Welcome+to+my+Github+:D">
+  <br><img src="https://github.com/Osama-NJ/Osama-NJ/blob/main/img/Hi.gif"width="30"> <br><img src="https://readme-typing-svg.herokuapp.com?size=26&lines=Hello+There+!!;My+Name+is+Osama..;Nice+to+meet+you;Welcome+to+my+Github">
 </h2>
 <h3 align="left">
   <br><img src="https://github.com/Osama-NJ/Osama-NJ/blob/main/img/code.gif" width="500">
