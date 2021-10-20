@@ -19,7 +19,7 @@
  
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently Looking for a Qa Automation Enginner role , Wish me luck 	:sunglasses:
+- :computer: I'm currently Looking for a Qa Automation Engineer role , Wish me luck 	:sunglasses:
 - :man_technologist: Learning Algorithms and Data structures | Advanced Python
 - 💬 &nbsp; Ask me about anything tech related :computer: , I am more than happy to help 
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/osamanajjar), or [**Drop a Mail**](mailto:najjarosama2@gmail.com)
