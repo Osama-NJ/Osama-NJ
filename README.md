@@ -20,7 +20,7 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm currently Looking for a Qa Automation Engineer role , Wish me luck 	:sunglasses:
-- :man_technologist: Learning Algorithms and Data structures | Advanced Python
+- :man_technologist: Learning Rest API | Advanced Python
 - 💬 &nbsp; Ask me about anything tech related :computer: , I am more than happy to help 
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/osamanajjar), or [**Drop a Mail**](mailto:najjarosama2@gmail.com)
 - :zap: Fun fact: apart from coding, I enjoy reading books:books:	 and listening to music :musical_note:	
