@@ -17,13 +17,6 @@
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://www.selenium.dev" target="_blank"> <img src="https://github.com/Osama-NJ/Osama-NJ/blob/main/img/selenium%20pic.png" alt="Selenium" width="40" height="42px"/> </a>
  
-<h2 align="left">👨🏻‍💻 About Me:</h2>
-
-- :computer: I'm currently Looking for a Qa Automation Engineer role , Wish me luck 	:sunglasses:
-- :man_technologist: Learning Rest API | Advanced Python
-- 💬 &nbsp; Ask me about anything tech related :computer: , I am more than happy to help 
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/osamanajjar), or [**Drop a Mail**](mailto:najjarosama2@gmail.com)
-- :zap: Fun fact: apart from coding, I enjoy reading books:books:	 and listening to music :musical_note:	
       
   
 
